@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
 body {
   --background: #1D1D1D;
   width: 100vw;
@@ -16,6 +18,9 @@ code {
     monospace;
 }
 
+h1{
+  font-family: 'Krona One', sans-serif;
+}
 
 .canvas {
   display: block;
